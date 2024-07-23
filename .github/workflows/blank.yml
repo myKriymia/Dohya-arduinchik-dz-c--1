@@ -1,9 +1,12 @@
-#include<iostrem>
+// Назва !!!
+#include<iostream>//iostream
 using namespace std;
 int main(){
-int a,b,c;
+int a,b;
 a=4; b=6;
 cout<<a+b;
-cin>>c;
+//Можна так або через C 
+// Навіщо ти запитуєш чому = С??
 return 0;
 }
+// 7/10
